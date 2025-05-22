@@ -1,0 +1,204 @@
+.error
+{
+	color:red;
+}
+.main-container
+{
+	border:1px solid black;
+	height:auto;
+	width:90wh;
+}
+.header
+{
+	width:90hw;
+	height:auto;
+	border:1px solid black;
+	margin:5px;
+}
+.logo
+{
+	float:left;
+	padding:5px;
+	height:60px;
+}
+.brand-name
+{
+	margin-top:20px;
+	margin-bottom:20px;
+	font-size:20pt;
+}
+.content
+{
+	width:90hw;
+	height:80vh;
+	border:1px solid white;
+	margin:5px;
+}
+.content-left-panel
+{
+	height:70vh;
+	border:1px solid black;
+	margin:5px;
+	float:left
+	;padding:5px;
+}
+.content-right-panel
+{
+	border:1px solid black;
+	margin-left:105px;
+	height:70vh;
+	margin-top:5px;
+	margin-right:5px;
+	margin-bottom:5px;
+	padding:5px;
+	overflow:scroll;
+}
+.footer
+{
+	width:90hw;
+	height:auto;
+	text-align:center;
+	margin:5px;
+	border:1px solid white;
+}
+
+.admin-name
+{
+    float: right;
+    margin:0px 40px 0px 0px;
+}
+.logout
+{
+	float: right;
+	color:red; 
+	width: 32px;
+	height: 32px;
+  	margin:0px 60px 0px 0px;
+  	font-size:20px
+}
+.user-logo
+{
+	float:right;
+	padding:5px;
+	height:20px;
+	margin:0px 5px 0px 0px;
+}
+
+.designationSNO
+{
+	width:70px;
+	text-align:center;
+}
+.designationT
+{
+	width:200px;
+}
+.designationEdit
+{
+	width:100px;
+	text-align:center;
+}
+.designationDelete
+{
+	width:100px;
+	text-align:center;
+}
+.tdserial
+{
+	text-align:right;
+}
+.tdEdit
+{
+	text-align:center;
+}
+.tdDelete
+{
+	text-align:center;
+}
+
+/*Employees.css*/
+
+
+.div-for-employee-list
+{
+	border:1px solid black;
+	margin-left:5px;
+	height:30vh;
+	margin-top:5px;
+	margin-right:5px;
+	margin-bottom:5px;
+	padding:5px;
+	overflow:scroll;
+}
+
+
+.addEmp
+{
+	text-align:right;
+	padding:5px;
+}
+
+.empSNO
+{
+	width:60px;
+	text-align:center;
+}
+.empId
+{
+	width:100px;
+}
+.empName
+{
+	width:200px;
+}
+.empDesignation
+{
+	width:200px;
+}
+.empEdit
+{
+	width:100px;
+	text-align:center;
+}
+.empDelete
+{
+	width:100px;
+	text-align:center;
+}
+
+
+
+
+/*Explain the following 
+bootstraping and porting 
+lex
+model of compilation
+brute force approach 
+explaim the fowllowing 
+tyoe checking 
+type conversion 
+storage alocation strategies
+symbol table and input buffering 
+backpatching 
+
+4Num 
+1Theory
+
+*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
